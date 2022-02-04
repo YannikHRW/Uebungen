@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE example SYSTEM "Chat.dtd">
+<example>
+    <chat>
+        <ip>
+            239.0.1.1
+        </ip>
+        <port>
+            5000
+        </port>
+        <nickname>
+            Carl
+        </nickname>
+    </chat>
+    <chat>
+        <ip>
+            239.0.1.1
+        </ip>
+        <port>
+            5000
+        </port>
+        <nickname>
+            Peter
+        </nickname>
+    </chat>
+</example>

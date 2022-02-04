@@ -1,0 +1,5 @@
+<!ELEMENT example (chat*)>
+<!ELEMENT chat (ip,port,nickname)>
+<!ELEMENT ip (#PCDATA)>
+<!ELEMENT port (#PCDATA)>
+<!ELEMENT nickname (#PCDATA)>
